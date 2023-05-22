@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<a href="https://dev.to/suficoding"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="RB's DEV Profile" height="30" width="30"></a>
+![RB's github stats](https://github-readme-stats.vercel.app/api?username=SufiCoding)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SufiCoding)](https://github.com/SufiCoding/github-readme-stats)
+
 <!--
 **SufiCoding/SufiCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
